@@ -1,0 +1,19 @@
+# 第二个cpp程序
+- 我们学习C语言的基本语法：
+    - 主函数
+        - 视频讲解：主函数.mp4
+    - 数据类型
+        - [参考](https://www.runoob.com/cplusplus/cpp-data-types.html)
+    - 指针
+        - 视频讲解: 指针.mp4 指针代码.mp4
+    - 函数，以及参数
+        - 要点：
+            1. 声明、实现和调用这3个重要的概念
+            2. 传值调用，指针调用，引用调用
+            3. lambda表达式
+        - [参考](https://www.runoob.com/cplusplus/cpp-functions.html)
+        - 视频讲解：
+    - 定义和声明
+    - 头文件
+    - 结构体
+    - 宏定义

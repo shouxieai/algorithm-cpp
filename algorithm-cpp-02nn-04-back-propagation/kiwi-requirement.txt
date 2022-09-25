@@ -1,0 +1,2 @@
+OpenBLAS0.3.17Static;.
+@mnist;workspace
