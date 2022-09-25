@@ -40,6 +40,7 @@
 8. 如果key不可用，请加微信 shouxie_ai 入群后索取
 
 # Reference
+- 课程录屏-pptx: https://pan.baidu.com/s/1_cL7C8PRxolHhM-eQanBhA?pwd=1237 
 - 相对应其他的课程：https://github.com/shouxieai/learning-cuda-trt
 - TensorRT的B站视频讲解：https://www.bilibili.com/video/BV1Xw411f7FW
 - 官方的视频讲解：https://www.bilibili.com/video/BV15Y4y1W73E
